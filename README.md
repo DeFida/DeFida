@@ -1,4 +1,4 @@
-![gif]([https://storage.googleapis.com/weskill-storage/images/gifa-1698574324750.gif](https://storage.googleapis.com/weskill-storage/images/asf-1698574553313.gif))
+![gif](https://storage.googleapis.com/weskill-storage/images/asf-1698574553313.gif)
 
 ### Hi, I'm Dastan Tynyshtyk 😉
 
