@@ -1,3 +1,6 @@
-Hi, I'm Dastan Tynyshtyk 😉
-I am a frontend developer (MERN) 😎
+Hi, I'm Dastan
+
+I am a web developer (MERN) 😎
+
 Check my [portfolio](https://tynyshtyq.blog) &#128072;
+
